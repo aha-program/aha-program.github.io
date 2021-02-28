@@ -1,0 +1,27 @@
+p{
+    font-family: sans-serif;
+    color: white;
+}
+strong{
+    color: yellowgreen;
+}
+ul{
+    color: white;
+}
+ol{
+    color: white;
+}
+a{
+    color: orangered;
+}
+
+h1, h2{
+    font-family: Arial, sans-serif;
+    color: aqua;
+}
+
+body{
+    background-color: darkslategray;
+    margin: 0 auto;
+    max-width: 50em;
+}
