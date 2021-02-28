@@ -1,18 +1,10 @@
-p{
-    color: white;
-}
 p::first-letter {
     font-size: 24px;
 }
 strong{
     color: yellowgreen;
 }
-ul{
-    color: white;
-}
-ol{
-    color: white;
-}
+
 a{
     color: orangered;
 	text-decoration: none;
@@ -30,4 +22,5 @@ body{
     background-color: darkslategray;
     margin: 0 auto;
     max-width: 50em;
+    color: white;
 }
