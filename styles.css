@@ -1,5 +1,4 @@
 p{
-    font-family: sans-serif;
     color: white;
 }
 p::first-letter {
@@ -19,11 +18,11 @@ a{
 }
 
 h1, h2{
-    font-family: Arial, sans-serif;
     color: aqua;
 }
 
 body{
+	font-family: Roboto, sans-serif;
     background-color: darkslategray;
     margin: 0 auto;
     max-width: 50em;
